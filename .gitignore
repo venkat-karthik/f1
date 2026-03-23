@@ -1,0 +1,5 @@
+f1-scrolly/node_modules/
+f1-scrolly/.next/
+f1-scrolly/*.tsbuildinfo
+f1-scrolly/next-env.d.ts
+.DS_Store
